@@ -1,4 +1,5 @@
 # Robots.txt file for student portfolio
 
 User-agent: *
+  Sitemap" http://ww.pvowusu.github.io/isu-portfolio/sitemap.xml
 Disallow: /
